@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00004",
+  "title": "Configuration issue for VPN connection - cannot establish tunnel",
+  "description": "Email messages are not synchronizing properly. New emails appear on mobile device but not on desktop client. This started a few days ago and is causing communication delays. User has tried clearing cache but issue persists.",
+  "status": "Closed",
+  "priority": "Low",
+  "category": "Account",
+  "department": "IT Support",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-09-07",
+  "updated_date": "2024-08-29",
+  "reporter": "user11@company.com",
+  "tags": [
+    "network",
+    "printer",
+    "access"
+  ]
+}

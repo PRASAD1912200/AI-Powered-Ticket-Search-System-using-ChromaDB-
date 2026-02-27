@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00072",
+  "title": "Issue with account - Configuration issue for software application",
+  "description": "User reported an issue where they are experiencing problems with installing database systems. The problem started this morning and is preventing them from completing their work. User has tried from a different device but the issue persists. Escalation may be required if not resolved quickly.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Access",
+  "department": "Operations",
+  "assigned_to": "John Smith",
+  "created_date": "2024-02-26",
+  "updated_date": "2024-03-16",
+  "reporter": "user41@company.com",
+  "tags": [
+    "email",
+    "update",
+    "security",
+    "hardware"
+  ]
+}

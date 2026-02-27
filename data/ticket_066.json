@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00066",
+  "title": "Issue with hardware - Connection problem with database access",
+  "description": "User reported an issue where they are experiencing problems with configuring database systems. The problem started a few days ago and is preventing them from completing their work. User has checked network connectivity but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Open",
+  "priority": "Medium",
+  "category": "Security",
+  "department": "HR",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-08-03",
+  "updated_date": "2024-11-18",
+  "reporter": "user48@company.com",
+  "tags": [
+    "access",
+    "urgent",
+    "hardware",
+    "update"
+  ]
+}

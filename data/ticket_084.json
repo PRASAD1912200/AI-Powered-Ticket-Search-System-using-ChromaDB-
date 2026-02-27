@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00084",
+  "title": "Issue with email - Installation failure of mobile device",
+  "description": "User reported an issue where they are experiencing problems with accessing mobile devices. The problem started earlier today and is affecting multiple users. User has verified credentials are correct but the issue persists. Escalation may be required if not resolved quickly.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Network",
+  "department": "HR",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-07-28",
+  "updated_date": "2024-12-22",
+  "reporter": "user38@company.com",
+  "tags": [
+    "access",
+    "configuration",
+    "printer",
+    "network"
+  ]
+}

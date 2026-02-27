@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00012",
+  "title": "Hardware malfunction - keyboard not responding",
+  "description": "Network connectivity is intermittent. Connection drops randomly throughout the day. This affects multiple users in the same department. User has checked network cables and router settings but issue persists.",
+  "status": "Open",
+  "priority": "High",
+  "category": "Email",
+  "department": "IT Support",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-01-11",
+  "updated_date": "2024-06-30",
+  "reporter": "user14@company.com",
+  "tags": [
+    "vpn",
+    "update"
+  ]
+}

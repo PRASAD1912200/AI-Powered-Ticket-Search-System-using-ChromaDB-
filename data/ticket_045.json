@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00045",
+  "title": "Issue with network - Timeout error in VPN connection",
+  "description": "User reported an issue where they are experiencing problems with accessing the printer. The problem started last week and is affecting multiple users. User has tried restarting the application but the issue persists. Multiple users have reported similar issues.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Network",
+  "department": "Sales",
+  "assigned_to": "John Smith",
+  "created_date": "2024-10-14",
+  "updated_date": "2024-07-18",
+  "reporter": "user5@company.com",
+  "tags": [
+    "network",
+    "update",
+    "vpn"
+  ]
+}

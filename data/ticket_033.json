@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00033",
+  "title": "Issue with account - Error when opening VPN connection",
+  "description": "User reported an issue where they are experiencing problems with using database systems. The problem started last week and is causing data loss concerns. User has cleared cache and cookies but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "In Progress",
+  "priority": "Low",
+  "category": "Hardware",
+  "department": "Sales",
+  "assigned_to": "John Smith",
+  "created_date": "2024-04-22",
+  "updated_date": "2024-01-16",
+  "reporter": "user4@company.com",
+  "tags": [
+    "vpn",
+    "software",
+    "hardware"
+  ]
+}

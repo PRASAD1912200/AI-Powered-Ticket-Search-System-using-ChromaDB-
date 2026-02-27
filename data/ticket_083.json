@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00083",
+  "title": "Issue with vpn - Configuration issue for remote desktop",
+  "description": "User reported an issue where they are experiencing problems with accessing cloud services. The problem started yesterday afternoon and is causing data loss concerns. User has attempted to reconnect multiple times but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "Medium",
+  "category": "Access",
+  "department": "Operations",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-06-05",
+  "updated_date": "2024-01-23",
+  "reporter": "user4@company.com",
+  "tags": [
+    "network",
+    "hardware",
+    "configuration",
+    "access"
+  ]
+}

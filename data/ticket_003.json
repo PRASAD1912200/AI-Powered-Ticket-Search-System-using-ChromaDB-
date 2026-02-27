@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00003",
+  "title": "Permission denied for shared folder - access rights issue",
+  "description": "Software license has expired and requires reactivation. The application is running in trial mode with limited functionality. This is preventing full use of the software. License renewal process needs to be completed.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Email",
+  "department": "HR",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-09-01",
+  "updated_date": "2024-01-31",
+  "reporter": "user37@company.com",
+  "tags": [
+    "email",
+    "network",
+    "hardware",
+    "bug"
+  ]
+}

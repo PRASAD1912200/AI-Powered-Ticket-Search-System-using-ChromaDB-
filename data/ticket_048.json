@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00048",
+  "title": "Issue with email - Permission denied for database access",
+  "description": "User reported an issue where they are experiencing problems with installing their email account. The problem started earlier today and is causing data loss concerns. User has verified credentials are correct but the issue persists. This is blocking critical work tasks.",
+  "status": "Closed",
+  "priority": "Medium",
+  "category": "Application",
+  "department": "Finance",
+  "assigned_to": "John Smith",
+  "created_date": "2024-11-22",
+  "updated_date": "2024-08-06",
+  "reporter": "user44@company.com",
+  "tags": [
+    "email",
+    "network"
+  ]
+}

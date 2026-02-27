@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00092",
+  "title": "Issue with vpn - Unable to access cloud service",
+  "description": "User reported an issue where they are experiencing problems with installing shared resources. The problem started earlier today and is impacting critical business operations. User has verified credentials are correct but the issue persists. Multiple users have reported similar issues.",
+  "status": "In Progress",
+  "priority": "High",
+  "category": "Security",
+  "department": "Sales",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-10-24",
+  "updated_date": "2024-11-19",
+  "reporter": "user12@company.com",
+  "tags": [
+    "access",
+    "software",
+    "bug",
+    "configuration"
+  ]
+}

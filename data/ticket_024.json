@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00024",
+  "title": "Issue with software - Corrupted data in printer setup",
+  "description": "User reported an issue where they are experiencing problems with installing their email account. The problem started yesterday afternoon and is affecting multiple users. User has attempted to reconnect multiple times but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Closed",
+  "priority": "Critical",
+  "category": "Printer",
+  "department": "Finance",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-11-28",
+  "updated_date": "2024-06-13",
+  "reporter": "user23@company.com",
+  "tags": [
+    "software",
+    "network"
+  ]
+}

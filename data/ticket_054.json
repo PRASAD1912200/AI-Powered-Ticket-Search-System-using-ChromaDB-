@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00054",
+  "title": "Issue with vpn - Performance degradation in database access",
+  "description": "User reported an issue where they are experiencing problems with using the network drive. The problem started yesterday afternoon and is causing significant delays. User has verified credentials are correct but the issue persists. Multiple users have reported similar issues.",
+  "status": "Pending",
+  "priority": "Medium",
+  "category": "Account",
+  "department": "Sales",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-09-13",
+  "updated_date": "2024-02-07",
+  "reporter": "user21@company.com",
+  "tags": [
+    "email",
+    "hardware",
+    "software"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00019",
+  "title": "Software license expiration - activation required",
+  "description": "User is unable to connect to the network drive. The connection times out after several attempts. This started yesterday afternoon and is causing significant delays in accessing shared resources. User has attempted to reconnect multiple times but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Open",
+  "priority": "Low",
+  "category": "Software",
+  "department": "IT Support",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-03-19",
+  "updated_date": "2024-10-12",
+  "reporter": "user19@company.com",
+  "tags": [
+    "network",
+    "urgent",
+    "configuration"
+  ]
+}

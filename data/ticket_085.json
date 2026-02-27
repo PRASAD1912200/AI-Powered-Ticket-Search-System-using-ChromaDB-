@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00085",
+  "title": "Issue with account - Error when opening printer setup",
+  "description": "User reported an issue where they are experiencing problems with connecting to a software application. The problem started this morning and is affecting multiple users. User has tried from a different device but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "High",
+  "category": "VPN",
+  "department": "Marketing",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-05-18",
+  "updated_date": "2024-10-07",
+  "reporter": "user33@company.com",
+  "tags": [
+    "urgent",
+    "printer",
+    "access",
+    "configuration"
+  ]
+}

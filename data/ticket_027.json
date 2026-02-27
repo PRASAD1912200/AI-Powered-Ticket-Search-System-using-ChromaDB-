@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00027",
+  "title": "Issue with printer - Permission denied for remote desktop",
+  "description": "User reported an issue where they are experiencing problems with using database systems. The problem started earlier today and is impacting critical business operations. User has checked network connectivity but the issue persists. Multiple users have reported similar issues.",
+  "status": "Closed",
+  "priority": "Medium",
+  "category": "Network",
+  "department": "Sales",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-06-02",
+  "updated_date": "2024-02-29",
+  "reporter": "user33@company.com",
+  "tags": [
+    "bug",
+    "security",
+    "email"
+  ]
+}

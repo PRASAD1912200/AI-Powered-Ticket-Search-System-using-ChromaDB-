@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00095",
+  "title": "Issue with printer - Configuration issue for shared folder",
+  "description": "User reported an issue where they are experiencing problems with connecting to mobile devices. The problem started a few days ago and is impacting critical business operations. User has tried from a different device but the issue persists. This is blocking critical work tasks.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Printer",
+  "department": "Operations",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-06-01",
+  "updated_date": "2024-12-10",
+  "reporter": "user14@company.com",
+  "tags": [
+    "hardware",
+    "printer"
+  ]
+}

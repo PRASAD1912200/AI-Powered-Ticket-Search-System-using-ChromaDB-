@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00017",
+  "title": "Backup system failure - scheduled backup not completing",
+  "description": "VPN connection cannot be established. User receives authentication error when trying to connect. This is blocking critical work tasks as user needs remote access to company resources. User has verified credentials are correct. Multiple users have reported similar issues.",
+  "status": "Pending",
+  "priority": "Low",
+  "category": "Security",
+  "department": "Finance",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-11-18",
+  "updated_date": "2024-01-25",
+  "reporter": "user21@company.com",
+  "tags": [
+    "bug",
+    "software"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00057",
+  "title": "Issue with hardware - Update required for shared folder",
+  "description": "User reported an issue where they are experiencing problems with updating remote access. The problem started earlier today and is preventing them from completing their work. User has tried restarting the application but the issue persists. This is blocking critical work tasks.",
+  "status": "In Progress",
+  "priority": "Low",
+  "category": "Account",
+  "department": "Finance",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-07-26",
+  "updated_date": "2024-11-01",
+  "reporter": "user41@company.com",
+  "tags": [
+    "email",
+    "configuration"
+  ]
+}

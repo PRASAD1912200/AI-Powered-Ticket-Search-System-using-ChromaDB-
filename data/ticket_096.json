@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00096",
+  "title": "Issue with email - Performance degradation in network drive",
+  "description": "User reported an issue where they are experiencing problems with accessing mobile devices. The problem started yesterday afternoon and is preventing them from completing their work. User has tried from a different device but the issue persists. Escalation may be required if not resolved quickly.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Software",
+  "department": "HR",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-01-14",
+  "updated_date": "2024-06-04",
+  "reporter": "user9@company.com",
+  "tags": [
+    "printer",
+    "software",
+    "hardware",
+    "urgent"
+  ]
+}

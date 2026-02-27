@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00090",
+  "title": "Issue with vpn - Installation failure of VPN connection",
+  "description": "User reported an issue where they are experiencing problems with updating remote access. The problem started a few days ago and is impacting critical business operations. User has verified credentials are correct but the issue persists. Escalation may be required if not resolved quickly.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Printer",
+  "department": "HR",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-04-11",
+  "updated_date": "2024-03-06",
+  "reporter": "user47@company.com",
+  "tags": [
+    "bug",
+    "configuration"
+  ]
+}

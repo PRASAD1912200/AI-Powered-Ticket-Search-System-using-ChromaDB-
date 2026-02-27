@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00016",
+  "title": "Connection problem with network drive - timeout issues",
+  "description": "User cannot access shared folder despite having proper permissions. Permission denied error appears when trying to open documents. This started earlier today and affects access to important project files. User has checked network connectivity but issue persists.",
+  "status": "Pending",
+  "priority": "Low",
+  "category": "Application",
+  "department": "Finance",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-04-01",
+  "updated_date": "2024-12-23",
+  "reporter": "user10@company.com",
+  "tags": [
+    "security",
+    "hardware",
+    "configuration"
+  ]
+}

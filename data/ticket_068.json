@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00068",
+  "title": "Issue with network - Installation failure of mobile device",
+  "description": "User reported an issue where they are experiencing problems with updating database systems. The problem started last week and is affecting multiple users. User has verified credentials are correct but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Pending",
+  "priority": "High",
+  "category": "Hardware",
+  "department": "Finance",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-08-21",
+  "updated_date": "2024-07-29",
+  "reporter": "user18@company.com",
+  "tags": [
+    "update",
+    "hardware",
+    "configuration",
+    "vpn"
+  ]
+}

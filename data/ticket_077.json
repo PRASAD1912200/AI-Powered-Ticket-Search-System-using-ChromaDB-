@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00077",
+  "title": "Issue with email - Update required for mobile device",
+  "description": "User reported an issue where they are experiencing problems with accessing cloud services. The problem started this morning and is preventing them from completing their work. User has cleared cache and cookies but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Network",
+  "department": "IT Support",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-12-24",
+  "updated_date": "2024-06-10",
+  "reporter": "user50@company.com",
+  "tags": [
+    "bug",
+    "urgent"
+  ]
+}

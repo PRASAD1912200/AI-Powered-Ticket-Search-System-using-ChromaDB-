@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00020",
+  "title": "Connection problem with network drive - timeout issues",
+  "description": "Security patches need to be applied but system shows vulnerability warnings. The update mechanism is not functioning properly. This poses a security risk to the organization. User is unable to proceed with their work until this is fixed.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Account",
+  "department": "IT Support",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-09-18",
+  "updated_date": "2024-09-24",
+  "reporter": "user26@company.com",
+  "tags": [
+    "software",
+    "email"
+  ]
+}

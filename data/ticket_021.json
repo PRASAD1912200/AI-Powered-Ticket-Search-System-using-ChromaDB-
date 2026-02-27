@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00021",
+  "title": "Issue with application - Permission denied for shared folder",
+  "description": "User reported an issue where they are experiencing problems with configuring the network drive. The problem started earlier today and is preventing them from completing their work. User has tried restarting the application but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Open",
+  "priority": "High",
+  "category": "Printer",
+  "department": "HR",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-11-16",
+  "updated_date": "2024-02-11",
+  "reporter": "user11@company.com",
+  "tags": [
+    "configuration",
+    "update"
+  ]
+}

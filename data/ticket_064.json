@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00064",
+  "title": "Issue with vpn - Corrupted data in software application",
+  "description": "User reported an issue where they are experiencing problems with configuring the network drive. The problem started earlier today and is impacting critical business operations. User has tried from a different device but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Security",
+  "department": "Operations",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-01-13",
+  "updated_date": "2024-07-27",
+  "reporter": "user16@company.com",
+  "tags": [
+    "bug",
+    "software",
+    "network"
+  ]
+}

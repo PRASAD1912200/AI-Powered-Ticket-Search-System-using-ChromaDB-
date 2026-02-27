@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00050",
+  "title": "Issue with printer - Timeout error in mobile device",
+  "description": "User reported an issue where they are experiencing problems with configuring the network drive. The problem started yesterday afternoon and is causing data loss concerns. User has cleared cache and cookies but the issue persists. This is blocking critical work tasks.",
+  "status": "Resolved",
+  "priority": "High",
+  "category": "Software",
+  "department": "Operations",
+  "assigned_to": "John Smith",
+  "created_date": "2024-03-06",
+  "updated_date": "2024-06-03",
+  "reporter": "user20@company.com",
+  "tags": [
+    "bug",
+    "security",
+    "configuration"
+  ]
+}

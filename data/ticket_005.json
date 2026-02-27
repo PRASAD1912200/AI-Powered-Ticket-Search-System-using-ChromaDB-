@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00005",
+  "title": "Password reset required - account locked after failed attempts",
+  "description": "Scheduled backup is not completing successfully. Backup process starts but fails midway through. Error logs show disk space issues. This poses a risk to data protection. Immediate investigation required.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Hardware",
+  "department": "Finance",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-04-16",
+  "updated_date": "2024-02-03",
+  "reporter": "user2@company.com",
+  "tags": [
+    "update",
+    "printer",
+    "vpn"
+  ]
+}

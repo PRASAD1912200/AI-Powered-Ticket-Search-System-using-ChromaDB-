@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00076",
+  "title": "Issue with email - Update required for shared folder",
+  "description": "User reported an issue where they are experiencing problems with configuring a software application. The problem started this morning and is causing significant delays. User has cleared cache and cookies but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "Pending",
+  "priority": "Low",
+  "category": "Printer",
+  "department": "HR",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-09-13",
+  "updated_date": "2024-02-24",
+  "reporter": "user37@company.com",
+  "tags": [
+    "access",
+    "update",
+    "vpn",
+    "bug"
+  ]
+}

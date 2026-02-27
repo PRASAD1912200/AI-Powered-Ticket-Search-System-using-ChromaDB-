@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00044",
+  "title": "Issue with access - Installation failure of email account",
+  "description": "User reported an issue where they are experiencing problems with updating a software application. The problem started yesterday afternoon and is causing significant delays. User has verified credentials are correct but the issue persists. This is blocking critical work tasks.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Network",
+  "department": "Marketing",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-09-06",
+  "updated_date": "2024-03-23",
+  "reporter": "user15@company.com",
+  "tags": [
+    "update",
+    "network"
+  ]
+}

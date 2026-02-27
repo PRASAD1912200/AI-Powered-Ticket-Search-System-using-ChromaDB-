@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00013",
+  "title": "Network connectivity issues - intermittent disconnections",
+  "description": "Software update installation fails with error code 0x80070005. The update process starts but terminates midway. This is preventing the installation of critical security patches. User has tried running as administrator but issue persists. Urgent resolution needed.",
+  "status": "Resolved",
+  "priority": "Low",
+  "category": "Account",
+  "department": "IT Support",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-05-01",
+  "updated_date": "2024-05-03",
+  "reporter": "user13@company.com",
+  "tags": [
+    "network",
+    "email",
+    "software"
+  ]
+}

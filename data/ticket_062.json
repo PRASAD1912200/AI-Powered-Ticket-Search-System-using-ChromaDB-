@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00062",
+  "title": "Issue with security - Unable to access remote desktop",
+  "description": "User reported an issue where they are experiencing problems with using their email account. The problem started a few days ago and is affecting multiple users. User has verified credentials are correct but the issue persists. Escalation may be required if not resolved quickly.",
+  "status": "Closed",
+  "priority": "Critical",
+  "category": "Account",
+  "department": "Operations",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-03-08",
+  "updated_date": "2024-09-23",
+  "reporter": "user5@company.com",
+  "tags": [
+    "security",
+    "bug",
+    "software"
+  ]
+}

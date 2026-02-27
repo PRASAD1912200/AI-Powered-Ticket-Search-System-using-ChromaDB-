@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00100",
+  "title": "Issue with application - Connection problem with network drive",
+  "description": "User reported an issue where they are experiencing problems with installing their email account. The problem started yesterday afternoon and is causing data loss concerns. User has attempted to reconnect multiple times but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Resolved",
+  "priority": "High",
+  "category": "Software",
+  "department": "Finance",
+  "assigned_to": "John Smith",
+  "created_date": "2024-04-15",
+  "updated_date": "2024-03-25",
+  "reporter": "user13@company.com",
+  "tags": [
+    "configuration",
+    "update",
+    "urgent",
+    "access"
+  ]
+}

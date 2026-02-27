@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00046",
+  "title": "Issue with software - Update required for cloud service",
+  "description": "User reported an issue where they are experiencing problems with accessing their email account. The problem started earlier today and is causing data loss concerns. User has tried restarting the application but the issue persists. This is blocking critical work tasks.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Printer",
+  "department": "IT Support",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-07-31",
+  "updated_date": "2024-11-27",
+  "reporter": "user32@company.com",
+  "tags": [
+    "security",
+    "bug",
+    "email",
+    "printer"
+  ]
+}

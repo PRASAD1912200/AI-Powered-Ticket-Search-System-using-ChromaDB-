@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00098",
+  "title": "Issue with printer - Update required for remote desktop",
+  "description": "User reported an issue where they are experiencing problems with updating cloud services. The problem started a few days ago and is impacting critical business operations. User has tried restarting the application but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Access",
+  "department": "Sales",
+  "assigned_to": "John Smith",
+  "created_date": "2024-09-25",
+  "updated_date": "2024-04-23",
+  "reporter": "user28@company.com",
+  "tags": [
+    "bug",
+    "email",
+    "vpn"
+  ]
+}

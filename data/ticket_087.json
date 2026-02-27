@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00087",
+  "title": "Issue with access - Timeout error in database access",
+  "description": "User reported an issue where they are experiencing problems with using a software application. The problem started yesterday afternoon and is impacting critical business operations. User has attempted to reconnect multiple times but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Closed",
+  "priority": "Medium",
+  "category": "Security",
+  "department": "Finance",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-12-24",
+  "updated_date": "2024-05-15",
+  "reporter": "user33@company.com",
+  "tags": [
+    "printer",
+    "network"
+  ]
+}

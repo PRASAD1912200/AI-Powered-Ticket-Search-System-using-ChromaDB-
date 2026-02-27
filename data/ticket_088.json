@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00088",
+  "title": "Issue with vpn - Error when opening cloud service",
+  "description": "User reported an issue where they are experiencing problems with installing a software application. The problem started last week and is blocking access to essential resources. User has checked network connectivity but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Resolved",
+  "priority": "Medium",
+  "category": "Email",
+  "department": "Marketing",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-02-28",
+  "updated_date": "2024-12-24",
+  "reporter": "user9@company.com",
+  "tags": [
+    "printer",
+    "network",
+    "configuration",
+    "email"
+  ]
+}

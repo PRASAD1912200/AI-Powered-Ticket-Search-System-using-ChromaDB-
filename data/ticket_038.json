@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00038",
+  "title": "Issue with account - Unable to access shared folder",
+  "description": "User reported an issue where they are experiencing problems with configuring mobile devices. The problem started last week and is affecting multiple users. User has verified credentials are correct but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Closed",
+  "priority": "High",
+  "category": "Software",
+  "department": "Sales",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-10-23",
+  "updated_date": "2024-05-11",
+  "reporter": "user41@company.com",
+  "tags": [
+    "printer",
+    "urgent",
+    "bug",
+    "configuration"
+  ]
+}

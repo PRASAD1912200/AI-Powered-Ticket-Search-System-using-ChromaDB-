@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00073",
+  "title": "Issue with security - Unable to access shared folder",
+  "description": "User reported an issue where they are experiencing problems with configuring the printer. The problem started this morning and is impacting critical business operations. User has attempted to reconnect multiple times but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Closed",
+  "priority": "High",
+  "category": "Printer",
+  "department": "IT Support",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-08-31",
+  "updated_date": "2024-08-30",
+  "reporter": "user16@company.com",
+  "tags": [
+    "security",
+    "email"
+  ]
+}

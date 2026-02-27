@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00058",
+  "title": "Issue with software - Connection problem with shared folder",
+  "description": "User reported an issue where they are experiencing problems with using database systems. The problem started last week and is impacting critical business operations. User has cleared cache and cookies but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "Resolved",
+  "priority": "High",
+  "category": "Software",
+  "department": "Sales",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-06-03",
+  "updated_date": "2024-02-13",
+  "reporter": "user8@company.com",
+  "tags": [
+    "access",
+    "urgent"
+  ]
+}

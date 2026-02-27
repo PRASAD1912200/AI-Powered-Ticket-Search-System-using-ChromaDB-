@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00099",
+  "title": "Issue with account - Configuration issue for database access",
+  "description": "User reported an issue where they are experiencing problems with using their email account. The problem started this morning and is impacting critical business operations. User has cleared cache and cookies but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "Pending",
+  "priority": "Medium",
+  "category": "Account",
+  "department": "Operations",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-06-15",
+  "updated_date": "2024-04-18",
+  "reporter": "user6@company.com",
+  "tags": [
+    "configuration",
+    "update",
+    "network"
+  ]
+}

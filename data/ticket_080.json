@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00080",
+  "title": "Issue with access - Corrupted data in shared folder",
+  "description": "User reported an issue where they are experiencing problems with installing their email account. The problem started last week and is impacting critical business operations. User has checked network connectivity but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "Low",
+  "category": "Email",
+  "department": "IT Support",
+  "assigned_to": "John Smith",
+  "created_date": "2024-05-06",
+  "updated_date": "2024-08-27",
+  "reporter": "user7@company.com",
+  "tags": [
+    "access",
+    "urgent",
+    "software",
+    "configuration"
+  ]
+}

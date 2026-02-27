@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00008",
+  "title": "Password reset required - account locked after failed attempts",
+  "description": "Keyboard is not responding to input. Some keys work intermittently while others do not respond at all. This is a hardware malfunction that requires replacement. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "Critical",
+  "category": "Account",
+  "department": "Operations",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-06-24",
+  "updated_date": "2024-03-17",
+  "reporter": "user11@company.com",
+  "tags": [
+    "bug",
+    "email",
+    "security"
+  ]
+}

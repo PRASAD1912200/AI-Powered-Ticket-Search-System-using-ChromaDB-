@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00032",
+  "title": "Issue with security - Update required for mobile device",
+  "description": "User reported an issue where they are experiencing problems with accessing a software application. The problem started yesterday afternoon and is preventing them from completing their work. User has checked network connectivity but the issue persists. This is blocking critical work tasks.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "Hardware",
+  "department": "Marketing",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-03-18",
+  "updated_date": "2024-11-25",
+  "reporter": "user45@company.com",
+  "tags": [
+    "urgent",
+    "vpn"
+  ]
+}

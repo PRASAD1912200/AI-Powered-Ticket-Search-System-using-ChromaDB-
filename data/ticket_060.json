@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00060",
+  "title": "Issue with vpn - Error when opening mobile device",
+  "description": "User reported an issue where they are experiencing problems with updating the network drive. The problem started yesterday afternoon and is causing significant delays. User has verified credentials are correct but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Resolved",
+  "priority": "Medium",
+  "category": "Hardware",
+  "department": "Sales",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-04-03",
+  "updated_date": "2024-08-13",
+  "reporter": "user18@company.com",
+  "tags": [
+    "network",
+    "printer",
+    "hardware",
+    "email"
+  ]
+}

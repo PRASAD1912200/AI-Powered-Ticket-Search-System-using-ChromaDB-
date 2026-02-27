@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00093",
+  "title": "Issue with software - Unable to access network drive",
+  "description": "User reported an issue where they are experiencing problems with configuring cloud services. The problem started this morning and is affecting multiple users. User has tried restarting the application but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Application",
+  "department": "Marketing",
+  "assigned_to": "John Smith",
+  "created_date": "2024-03-06",
+  "updated_date": "2024-04-17",
+  "reporter": "user41@company.com",
+  "tags": [
+    "access",
+    "security",
+    "urgent",
+    "vpn"
+  ]
+}

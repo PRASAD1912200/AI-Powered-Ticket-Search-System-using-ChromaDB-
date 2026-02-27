@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00061",
+  "title": "Issue with vpn - Timeout error in email account",
+  "description": "User reported an issue where they are experiencing problems with accessing database systems. The problem started this morning and is impacting critical business operations. User has checked network connectivity but the issue persists. Multiple users have reported similar issues.",
+  "status": "Open",
+  "priority": "High",
+  "category": "Software",
+  "department": "Finance",
+  "assigned_to": "John Smith",
+  "created_date": "2024-09-01",
+  "updated_date": "2024-04-13",
+  "reporter": "user20@company.com",
+  "tags": [
+    "email",
+    "security",
+    "configuration"
+  ]
+}

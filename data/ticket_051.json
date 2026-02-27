@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00051",
+  "title": "Issue with email - Error when opening VPN connection",
+  "description": "User reported an issue where they are experiencing problems with using their email account. The problem started yesterday afternoon and is impacting critical business operations. User has verified credentials are correct but the issue persists. Urgent resolution needed as this affects daily operations.",
+  "status": "Open",
+  "priority": "Low",
+  "category": "Printer",
+  "department": "Operations",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-07-06",
+  "updated_date": "2024-06-18",
+  "reporter": "user37@company.com",
+  "tags": [
+    "configuration",
+    "printer"
+  ]
+}

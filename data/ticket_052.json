@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00052",
+  "title": "Issue with access - Timeout error in database access",
+  "description": "User reported an issue where they are experiencing problems with configuring their email account. The problem started this morning and is blocking access to essential resources. User has cleared cache and cookies but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Pending",
+  "priority": "High",
+  "category": "Security",
+  "department": "Operations",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-03-01",
+  "updated_date": "2024-11-05",
+  "reporter": "user42@company.com",
+  "tags": [
+    "update",
+    "security"
+  ]
+}

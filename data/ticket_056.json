@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00056",
+  "title": "Issue with account - Configuration issue for remote desktop",
+  "description": "User reported an issue where they are experiencing problems with configuring a software application. The problem started this morning and is impacting critical business operations. User has tried from a different device but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Security",
+  "department": "HR",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-08-07",
+  "updated_date": "2024-02-13",
+  "reporter": "user1@company.com",
+  "tags": [
+    "vpn",
+    "hardware",
+    "configuration"
+  ]
+}

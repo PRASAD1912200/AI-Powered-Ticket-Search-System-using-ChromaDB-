@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00081",
+  "title": "Issue with hardware - Configuration issue for database access",
+  "description": "User reported an issue where they are experiencing problems with accessing database systems. The problem started yesterday afternoon and is preventing them from completing their work. User has verified credentials are correct but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "Resolved",
+  "priority": "Critical",
+  "category": "Security",
+  "department": "Finance",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-09-23",
+  "updated_date": "2024-05-07",
+  "reporter": "user2@company.com",
+  "tags": [
+    "update",
+    "vpn",
+    "bug"
+  ]
+}

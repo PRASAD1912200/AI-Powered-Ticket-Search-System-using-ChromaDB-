@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00006",
+  "title": "Error when opening software application - crash on startup",
+  "description": "Application database shows corrupted data entries. Integrity check has failed and some records cannot be accessed. This is causing data loss concerns and may affect reporting accuracy. Immediate investigation required.",
+  "status": "Open",
+  "priority": "Medium",
+  "category": "Application",
+  "department": "Finance",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-11-01",
+  "updated_date": "2024-08-31",
+  "reporter": "user23@company.com",
+  "tags": [
+    "access",
+    "bug"
+  ]
+}

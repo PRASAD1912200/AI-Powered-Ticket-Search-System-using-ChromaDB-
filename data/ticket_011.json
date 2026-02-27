@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00011",
+  "title": "Password reset required - account locked after failed attempts",
+  "description": "Mobile device needs email configuration assistance. User cannot set up corporate email account on new device. Configuration settings need to be provided. This is preventing access to email on mobile device.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "Email",
+  "department": "Sales",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-11-24",
+  "updated_date": "2024-07-10",
+  "reporter": "user5@company.com",
+  "tags": [
+    "update",
+    "bug",
+    "printer",
+    "hardware"
+  ]
+}

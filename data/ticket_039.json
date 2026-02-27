@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00039",
+  "title": "Issue with hardware - Permission denied for database access",
+  "description": "User reported an issue where they are experiencing problems with using mobile devices. The problem started yesterday afternoon and is causing data loss concerns. User has attempted to reconnect multiple times but the issue persists. This is blocking critical work tasks.",
+  "status": "Open",
+  "priority": "High",
+  "category": "Security",
+  "department": "IT Support",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-07-21",
+  "updated_date": "2024-02-23",
+  "reporter": "user37@company.com",
+  "tags": [
+    "network",
+    "printer",
+    "software",
+    "urgent"
+  ]
+}

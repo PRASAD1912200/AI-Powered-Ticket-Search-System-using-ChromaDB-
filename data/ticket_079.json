@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00079",
+  "title": "Issue with access - Performance degradation in email account",
+  "description": "User reported an issue where they are experiencing problems with using the network drive. The problem started a few days ago and is blocking access to essential resources. User has checked network connectivity but the issue persists. Multiple users have reported similar issues.",
+  "status": "Closed",
+  "priority": "Low",
+  "category": "Application",
+  "department": "HR",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-10-15",
+  "updated_date": "2024-06-10",
+  "reporter": "user11@company.com",
+  "tags": [
+    "urgent",
+    "configuration",
+    "vpn"
+  ]
+}

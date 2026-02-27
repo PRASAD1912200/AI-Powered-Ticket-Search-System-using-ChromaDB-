@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00015",
+  "title": "Timeout error in remote desktop connection - connection drops",
+  "description": "Network connectivity is intermittent. Connection drops randomly throughout the day. This affects multiple users in the same department. User has checked network cables and router settings but issue persists.",
+  "status": "Pending",
+  "priority": "Medium",
+  "category": "Software",
+  "department": "IT Support",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-05-29",
+  "updated_date": "2024-05-22",
+  "reporter": "user35@company.com",
+  "tags": [
+    "update",
+    "bug",
+    "configuration",
+    "email"
+  ]
+}

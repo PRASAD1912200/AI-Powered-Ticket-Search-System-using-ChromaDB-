@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00082",
+  "title": "Issue with software - Timeout error in printer setup",
+  "description": "User reported an issue where they are experiencing problems with connecting to shared resources. The problem started this morning and is affecting multiple users. User has attempted to reconnect multiple times but the issue persists. Please investigate and provide solution as soon as possible.",
+  "status": "In Progress",
+  "priority": "Medium",
+  "category": "Security",
+  "department": "Sales",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-09-20",
+  "updated_date": "2024-11-03",
+  "reporter": "user36@company.com",
+  "tags": [
+    "urgent",
+    "access",
+    "email",
+    "software"
+  ]
+}

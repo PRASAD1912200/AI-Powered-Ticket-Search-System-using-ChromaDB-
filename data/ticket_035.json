@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00035",
+  "title": "Issue with access - Timeout error in email account",
+  "description": "User reported an issue where they are experiencing problems with updating their email account. The problem started a few days ago and is impacting critical business operations. User has attempted to reconnect multiple times but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "Low",
+  "category": "Email",
+  "department": "HR",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-07-29",
+  "updated_date": "2024-09-05",
+  "reporter": "user33@company.com",
+  "tags": [
+    "email",
+    "configuration",
+    "network",
+    "bug"
+  ]
+}

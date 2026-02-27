@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00030",
+  "title": "Issue with software - Permission denied for printer setup",
+  "description": "User reported an issue where they are experiencing problems with installing the printer. The problem started last week and is affecting multiple users. User has checked network connectivity but the issue persists. Multiple users have reported similar issues.",
+  "status": "Resolved",
+  "priority": "Medium",
+  "category": "Application",
+  "department": "Marketing",
+  "assigned_to": "David Wilson",
+  "created_date": "2024-12-29",
+  "updated_date": "2024-11-27",
+  "reporter": "user46@company.com",
+  "tags": [
+    "printer",
+    "urgent"
+  ]
+}

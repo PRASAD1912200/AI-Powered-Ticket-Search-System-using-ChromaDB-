@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00091",
+  "title": "Issue with email - Connection problem with software application",
+  "description": "User reported an issue where they are experiencing problems with updating mobile devices. The problem started earlier today and is blocking access to essential resources. User has tried from a different device but the issue persists. Multiple users have reported similar issues.",
+  "status": "In Progress",
+  "priority": "High",
+  "category": "Email",
+  "department": "Operations",
+  "assigned_to": "Emily Chen",
+  "created_date": "2024-12-09",
+  "updated_date": "2024-05-04",
+  "reporter": "user2@company.com",
+  "tags": [
+    "urgent",
+    "configuration",
+    "bug"
+  ]
+}

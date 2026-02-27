@@ -1,0 +1,18 @@
+{
+  "ticket_id": "TKT-00055",
+  "title": "Issue with application - Error when opening VPN connection",
+  "description": "User reported an issue where they are experiencing problems with installing VPN services. The problem started earlier today and is affecting multiple users. User has checked network connectivity but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "Pending",
+  "priority": "Critical",
+  "category": "Network",
+  "department": "HR",
+  "assigned_to": "Mike Davis",
+  "created_date": "2024-05-11",
+  "updated_date": "2024-05-15",
+  "reporter": "user37@company.com",
+  "tags": [
+    "email",
+    "software",
+    "configuration"
+  ]
+}

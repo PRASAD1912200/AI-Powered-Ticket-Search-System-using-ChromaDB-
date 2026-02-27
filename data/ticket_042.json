@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00042",
+  "title": "Issue with network - Unable to access mobile device",
+  "description": "User reported an issue where they are experiencing problems with configuring the network drive. The problem started a few days ago and is impacting critical business operations. User has attempted to reconnect multiple times but the issue persists. This is blocking critical work tasks.",
+  "status": "Open",
+  "priority": "Critical",
+  "category": "VPN",
+  "department": "HR",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-10-25",
+  "updated_date": "2024-08-01",
+  "reporter": "user37@company.com",
+  "tags": [
+    "printer",
+    "hardware",
+    "security",
+    "network"
+  ]
+}

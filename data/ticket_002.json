@@ -1,0 +1,17 @@
+{
+  "ticket_id": "TKT-00002",
+  "title": "Network connectivity issues - intermittent disconnections",
+  "description": "Mobile device needs email configuration assistance. User cannot set up corporate email account on new device. Configuration settings need to be provided. This is preventing access to email on mobile device.",
+  "status": "In Progress",
+  "priority": "High",
+  "category": "Email",
+  "department": "IT Support",
+  "assigned_to": "Sarah Johnson",
+  "created_date": "2024-07-23",
+  "updated_date": "2024-01-24",
+  "reporter": "user22@company.com",
+  "tags": [
+    "access",
+    "software"
+  ]
+}

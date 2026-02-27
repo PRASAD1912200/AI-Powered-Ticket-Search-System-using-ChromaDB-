@@ -1,0 +1,19 @@
+{
+  "ticket_id": "TKT-00094",
+  "title": "Issue with email - Connection problem with shared folder",
+  "description": "User reported an issue where they are experiencing problems with accessing the network drive. The problem started earlier today and is causing significant delays. User has verified credentials are correct but the issue persists. User is unable to proceed with their work until this is fixed.",
+  "status": "In Progress",
+  "priority": "Critical",
+  "category": "VPN",
+  "department": "Operations",
+  "assigned_to": "Lisa Anderson",
+  "created_date": "2024-11-27",
+  "updated_date": "2024-04-16",
+  "reporter": "user24@company.com",
+  "tags": [
+    "email",
+    "network",
+    "bug",
+    "configuration"
+  ]
+}
